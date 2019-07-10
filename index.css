@@ -1,0 +1,309 @@
+.header {
+  
+    background-image: url(images/mw.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+   
+}
+.byn {
+    padding: 10px 20px;
+}
+.brown {
+    background-color: #FAC769;
+}
+
+
+
+.think {
+    position: absolute;
+   
+    margin-left: 13%;
+    top: 35%;
+  
+  
+  
+}
+
+.think h6, .think h1 {
+   font-weight: 900;
+   color: #232323;
+}
+
+.find { 
+    padding-top: 70px; 
+    padding-bottom: 60px;
+ 
+}
+
+.find p {
+    margin-top: 18px;
+}
+
+
+@media (max-width: 576px) { 
+
+    .navbar-nav {
+        background-color: #FAC769;
+    }
+    .think {
+        margin: 0;
+    }
+
+    .modal-content {
+        width: 100%;
+         height: 50vh;
+         margin: 0 !important;
+          margin-top: 30% !important;
+          margin-left: 10% !important;
+        
+    }
+
+    .carousel-inner img {
+
+       height: 100%;
+       width: 100%;
+    }
+
+    .ledh {
+        left: 70px;
+    }
+
+    .biz h2{
+        font-size: 25px;
+    }
+
+    .hfire {
+        font-size: 20px;
+    }
+
+    .hurry h5 {
+        font-size: 16px;
+    }
+
+    .hurry h2 {
+        font-size: 20px;
+    }
+
+    
+}
+
+.biz {
+   
+    padding: 30px 0;
+}
+
+.biz h2 {
+    font-weight: 800;
+}
+
+.ash {
+    color: #767676;
+}
+
+
+
+.hde {
+  
+    margin-bottom: 20px;
+   
+}
+
+
+
+
+.eph {
+   
+    background-size: cover;
+    height: 50%;
+    padding: 20px 0 150px 20px;  
+}
+
+.eph1 {
+    background-image: url(images/03.jpg);
+}
+
+.eph2 {
+    background-image: url(images/04.jpg);
+}
+
+
+.eph3 {
+    background-image: url(images/05.jpg);
+}
+
+.ephc {
+    height: 50%;
+   
+} 
+
+.hrb {
+    border-radius: 20px;
+    padding: 10px 0; 
+    width: 30%;
+    font-size: 13px;
+}
+
+
+.mt1 {
+    background-image: url(images/gallery00.jpg);
+    background-size: cover;
+}
+
+.mt2 {
+    background-image: url(images/mw.jpg); 
+    background-size: cover;  
+}
+
+.mt3 {
+    background-image: url(images/gallery02.jpg); 
+    background-size: cover;  
+}
+
+
+.mt4 {
+    background-image: url(images/gallery03.jpg); 
+    background-size: cover;  
+}
+
+.mt5 {
+    background-image: url(images/gallery02.jpg); 
+    background-size: cover;  
+}
+
+.mt6 {
+    background-image: url(images/gallery00.jpg); 
+    background-size: cover;  
+}
+
+.mt7 {
+    background-image: url(images/gallery03.jpg); 
+    background-size: cover;  
+}
+
+.mt8 {
+    background-image: url(images/mw.jpg); 
+    background-size: cover;  
+}
+
+
+
+.mtn {
+   
+    width: 100%;
+    padding: 0;
+    margin-bottom: 1rem;
+    
+   
+}
+.mtn:hover .mtin {
+    background-color: rgba(83, 79, 79, 0.651);
+
+}
+
+.mtn:hover .ic {
+    visibility: visible;
+}
+.mtn:hover .wire {
+    visibility: visible;
+}
+
+.mtin {
+    padding: 0;
+   padding-top: 25%;
+  height: 100%;
+  height: 100%;
+  
+  
+  
+   
+}
+.wire {
+    visibility: hidden; 
+}
+
+.ic {
+    font-size: 52px;
+    margin-left: 40%;
+    visibility: hidden;
+  
+   
+
+  
+}
+
+.modal-dialog {
+   
+    margin: 0;
+    height: auto;
+    width: 100%;
+   
+    
+   
+ 
+    
+}
+
+.modal-content {
+
+    width: 80vw;
+    background-color: #FFCB01;
+    border: none;
+    margin-left: 30%;
+   
+ 
+    
+   
+}
+
+.close {
+  margin-left: 90%;
+ 
+}
+
+.carousel-inner img {
+    max-height: 630px;
+  
+}
+
+.hurry {
+    margin-top: 100px;
+}
+
+.led {
+    color: #FAC769;
+    font-size: 4rem;
+    z-index: 0;
+    font-weight: 800;
+}
+
+.ledh {
+    z-index: 1;
+    top: 30px ;
+}
+
+.tbrown {
+    color: #FAC769; 
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+   
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+  
+}
+
+.fn {
+    width: 40px;
+    height: 40px;
+  
+    padding-left: 12px;
+   
+}
+
